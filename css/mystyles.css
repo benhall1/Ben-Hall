@@ -22,7 +22,7 @@ h1{
 
 h2{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-color:brown
+color:teal
 }
 
 h3{
@@ -38,8 +38,8 @@ hr{
 }
 
 img {
-    display: block; /* Optional */
-    margin: auto; /* Optional */
+    display: block; 
+    margin: auto; 
     text-align: center;
     vertical-align: middle;
     height: 20%;
